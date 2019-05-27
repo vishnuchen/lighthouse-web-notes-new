@@ -17,7 +17,7 @@ This repository contains all of the notes taken by [Vishnu](https://github.com/v
     * using     git remote add origin <URL>
     * from above both are linked.
 
-*Pushing to Github
+* Pushing to Github
     * Make changes
     * git add "filename.xx" or git add. (for all the child folders and files)
     * git commit -m "commit the changes and be precice"
