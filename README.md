@@ -4,5 +4,5 @@
 
 This repository contains all of the notes taken by [Vishnu](https://github.com/vishnuchen) for the Lighthouse Labs Web Development Bootcamp.
 
-*Week 1
+* Week 1
     * Day 1
